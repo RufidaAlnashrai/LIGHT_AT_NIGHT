@@ -1,0 +1,45 @@
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.exe
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.pdb
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\App.g.cs
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.cache
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.lref
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.baml
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.g.resources
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.Properties.Resources.resources
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.exe
+C:\Users\Akram\Desktop\hci2\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.pdb
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.exe
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.pdb
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.exe
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.pdb
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.csprojResolveAssemblyReference.cache
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.g.cs
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\App.g.cs
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.cache
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.lref
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.baml
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.g.resources
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.Properties.Resources.resources
+F:\جامعة ذمار\مستوى ثالث  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.csproj.GenerateResource.Cache
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.exe
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.pdb
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.exe
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\bin\Debug\WPFDataTemplates.pdb
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.csprojResolveAssemblyReference.cache
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.g.cs
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\App.g.cs
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.cache
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates_MarkupCompile.lref
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\MainWindow.baml
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.g.resources
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.Properties.Resources.resources
+D:\جامعة ذمار\المستوى الثالث IT  2017\تفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.csproj.GenerateResource.Cache
+F:\level 3 first       2019.2018 HILME Murad\ITتفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.exe
+F:\level 3 first       2019.2018 HILME Murad\ITتفاعل بشري\عملي\WPFDataTemplates\WPFDataTemplates\obj\x86\Debug\WPFDataTemplates.pdb
